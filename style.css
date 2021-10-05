@@ -1,0 +1,20 @@
+p{
+    color: rebeccapurple;
+}
+.division{
+    font-size: 40px;
+    border: 4px solid maroon;
+}
+.division2{
+    color: olivedrab;
+}
+#unique{
+    color: palevioletred;
+    background: plum;
+}
+div,p,a{
+    border: 2px solid peru;
+}
+*{
+    background-color: rosybrown;
+}
